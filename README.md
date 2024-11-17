@@ -1,0 +1,5 @@
+- 👋 Olá, eu sou @glasdev
+- 👀 Estou interessado em desenvolvimento de software, automação e programação de redes.
+- 🌱 Atualmente, estou aprendendo conceitos avançados em Go e programação de redes.
+- 💞️ Procuro colaborar em projetos open-source e ferramentas inovadoras em Python, Go.
+- ⚡ Curiosidade: Adoro resolver quebra-cabeças lógicos e aprender novos paradigmas de programação.
